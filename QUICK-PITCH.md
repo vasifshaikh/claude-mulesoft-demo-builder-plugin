@@ -174,10 +174,3 @@ The plugin **generates complete Anypoint Studio integrations** in **2-3 hours** 
 
 **"No Vibes, Just Drag & Drop"** 🚀
 
----
-
-**Created by Integration Boutique**
-📧 connect@integrationboutique.com
-🌐 integrationboutique.com
-
-*Expert MuleSoft Integration Consulting*
